@@ -6,7 +6,7 @@ Serverless plugin to tag SQS - Simple Queue Service
 Install the plugin via <a href="https://docs.npmjs.com/cli/install">NPM</a>
 
 ```
-npm install serverless-tag-sqs
+npm install --save-dev serverless-tag-sqs
 ```
 
 ## Usage
