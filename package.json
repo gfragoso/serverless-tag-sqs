@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Serverless plugin to tag SQS - Simple Queue Service",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "serverless",
     "sqs",
@@ -13,6 +10,10 @@
     "tag",
     "aws"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gfragoso/serverless-tag-sqs"
+  },
   "author": "Gustavo Fragoso",
   "license": "MIT",
   "dependencies": {
