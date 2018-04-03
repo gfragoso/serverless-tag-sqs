@@ -10,7 +10,6 @@ npm install serverless-tag-sqs
 ```
 
 ## Usage
-======
 
 In Serverless template:
 
@@ -21,6 +20,6 @@ custom:
     TagName2: TagValue2
 
 plugins: 
-  - api-gateway-stage-tag-plugin
+  - serverless-tag-sqs
 
 ```
